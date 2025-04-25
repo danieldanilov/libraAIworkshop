@@ -58,7 +58,7 @@ except ImportError:
 
 
 # Hardcoded URL to analyze - change this to analyze a different site
-TARGET_URL = "https://danieldanilov.com/"
+TARGET_URL = "https://www.code.ink/"
 
 
 class AIWooCommerceAnalyzer:
