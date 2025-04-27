@@ -38,3 +38,4 @@
 ## Decisions
 - **API Key Management:** The `woo_analysis_with_ai.py` script explicitly looks for the `OPENAI_API_KEY` in a file named `.env.local` located within the `Scripts` directory. This keeps the key close to the script that uses it. *Other scripts requiring keys should follow a similar pattern unless otherwise specified.*
 - **Documentation Focus:** Keep `README.md` high-level, `PLANNING.md` for structure/setup, and `TASK.md` for ongoing work log.
+- **Workshop Structure (`LibraWorkshopAI`):** Added clear learning objectives, brief interactive/demonstration points (prompting, vibe coding), enhanced warnings section with verification steps, and a commitment-focused takeaway question to improve engagement within the 1-hour hybrid format. (July 29, 2024)

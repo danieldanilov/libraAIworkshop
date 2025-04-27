@@ -4,6 +4,7 @@ This repository contains materials and scripts related to the Libra AI Workshop.
 
 ## Key Areas Covered:
 
+*   **Workshop Structure:** The main workshop outline (`LibraWorkshopAI`) includes defined learning objectives, brief interactive demos (prompting, vibe coding), enhanced warnings about AI verification, and a commitment-focused takeaway.
 *   **Prompt Engineering:** Techniques and frameworks (CRAFT, RTF, etc.) for effectively interacting with LLMs like ChatGPT, Claude, or Gemini.
 *   **AI Tools:**
     *   **ChatGPT/Claude/Gemini:** Drafting support replies, summarizing information, using custom instructions and file uploads.
