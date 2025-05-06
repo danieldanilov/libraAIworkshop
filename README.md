@@ -2,6 +2,10 @@
 
 This repository contains materials and scripts related to the Libra AI Workshop. The workshop focuses on leveraging various AI tools and techniques to enhance productivity, particularly for support engineers and similar roles.
 
+## P2 Post Summary
+
+[P2: Libra AI Workshop: Leveraging AI in Support](https://librateamp2.wordpress.com/?p=11478)
+
 ## Key Areas Covered:
 
 *   **Workshop Structure:** The main workshop outline (`LibraWorkshopAI`) includes defined learning objectives, brief interactive demos (prompting, vibe coding), enhanced warnings about AI verification, and a commitment-focused takeaway.
