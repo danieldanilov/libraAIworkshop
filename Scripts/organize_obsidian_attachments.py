@@ -1,5 +1,30 @@
 #!/usr/bin/env python3
 
+"""
+# Obsidian Attachment Organizer
+#
+# Purpose:
+# This script organizes all attachment files across your entire Obsidian vault into appropriate
+# folders based on file type (audio, images, documents, videos).
+#
+# Technical Implementation:
+# - Recursively scans the entire Obsidian vault directory
+# - Identifies attachment files by extension and MIME type
+# - Categorizes files into audio, image, document, or video types
+# - Moves (not copies) each file to its appropriate destination folder
+# - Handles file naming conflicts by adding suffixes (_1, _2, etc.)
+# - Maintains detailed logs of all operations
+# - Generates a JSON report of successful moves and failures
+# - Provides a dry-run option to preview changes without actually moving files
+#
+# Usage:
+# - Basic: python organize_obsidian_attachments.py
+# - Dry run: python organize_obsidian_attachments.py --dry-run
+#
+# Author: Created with assistance from Claude
+# Date: Created in 2024
+"""
+
 import os
 import re
 import shutil
